@@ -68,6 +68,7 @@
 		<string>all-interfaces</string>
 		<string>all-ping</string>
 		<string>all-ping6rd-prefix</string>
+		<string>all-servers</string>
 		<string>all</string>
 		<string>allow-category</string>
 		<string>allow-ipaddr-url</string>
@@ -126,6 +127,7 @@
 		<string>blackhole</string>
 		<string>blacklist</string>
 		<string>block-category</string>
+		<string>bogus-priv</string>
 		<string>bond-group</string>
 		<string>bonding</string>
 		<string>bootfile-name</string>
@@ -280,6 +282,7 @@
 		<string>dns</string>
 		<string>domain-block</string>
 		<string>domain-name</string>
+		<string>domain-needed</string>
 		<string>domain-noncache</string>
 		<string>domain-search</string>
 		<string>domain</string>
@@ -319,6 +322,7 @@
 		<string>enable-indirect-media</string>
 		<string>enable-indirect-signalling</string>
 		<string>enable-proxy-arp</string>
+		<string>enable-ra</string>
 		<string>enable-safe-search</string>
 		<string>enable</string>
 		<string>encapsulation</string>
@@ -332,10 +336,12 @@
 		<string>err</string>
 		<string>esp-group</string>
 		<string>established</string>
+		<string>eth</string>
 		<string>ether</string>
 		<string>ethernet</string>
 		<string>eui64</string>
 		<string>exact-match</string>
+		<string>except-interface</string>
 		<string>exclude-any</string>
 		<string>exclude</string>
 		<string>executable</string>
@@ -462,6 +468,7 @@
 		<string>inbound</string>
 		<string>include-any</string>
 		<string>include-ipsec-conf</string>
+		<string>include</string>
 		<string>independent</string>
 		<string>inet</string>
 		<string>ingress-capture</string>
@@ -1028,6 +1035,7 @@
 		<string>strict-capability-match</string>
 		<string>strict-dad</string>
 		<string>strict-hop</string>
+		<string>strict-order</string>
 		<string>strict</string>
 		<string>stub</string>
 		<string>subnet-mask</string>
