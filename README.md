@@ -12,4 +12,5 @@ For you Mac users with BBEdit or TextWrangler, here is a Language Code Module I 
   * Open BBEdit or TextWrangler
   * Check the screenshot below for tips on enabling config.boot for color and folding - it really helps with hand editing!
   
-[[http://ubnt.i.lithium.com/t5/image/serverpage/image-id/56959iA6857962017285D5/image-size/original?v=mpbl-1&px=-1]]
+
+![Screenshot](http://ubnt.i.lithium.com/t5/image/serverpage/image-id/56959iA6857962017285D5/image-size/original?v=mpbl-1&px=-1)
