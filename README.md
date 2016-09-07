@@ -1,6 +1,5 @@
 # BBEdit
 BBEdit addons, enhancements etc.
-Version](https://img.shields.io/release.svg)](https://https://github.com/britannic/BBEdit)
 
 ## BBEdit/TextWrangler Language Code Module for colorizing your EdgeOS config.boot files
 
