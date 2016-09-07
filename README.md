@@ -8,7 +8,7 @@ For you Mac users with BBEdit or TextWrangler, here is a Language Code Module I 
 ### Instructions:
 
   * Make sure you quit BBEdit or TextWrangler
-  * Untar the file to: ~/Library/Application\ Support/BBEdit/Language\ Modules/
+  * Unzip the file to: ~/Library/Application\ Support/BBEdit/Language\ Modules/
   * Open BBEdit or TextWrangler
   * Check the screenshot below for tips on enabling config.boot for color and folding - it really helps with hand editing!
 
