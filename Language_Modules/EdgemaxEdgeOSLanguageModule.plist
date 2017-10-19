@@ -42,6 +42,7 @@
 		<string>access-list6</string>
 		<string>ack-wait-timeout</string>
 		<string>acl</string>
+		<string>acr-nema</string>
 		<string>action</string>
 		<string>activate</string>
 		<string>address-family</string>
@@ -58,7 +59,20 @@
 		<string>advertise</string>
 		<string>advertisement-interval</string>
 		<string>advertisement-mode</string>
+		<string>afbackup</string>
 		<string>affinity</string>
+		<string>afmbackup</string>
+		<string>afpovertcp</string>
+		<string>afs3-bos</string>
+		<string>afs3-callback</string>
+		<string>afs3-errors</string>
+		<string>afs3-fileserver</string>
+		<string>afs3-kaserver</string>
+		<string>afs3-prserver</string>
+		<string>afs3-rmtsys</string>
+		<string>afs3-update</string>
+		<string>afs3-vlserver</string>
+		<string>afs3-volser</string>
 		<string>agent-address</string>
 		<string>agentid</string>
 		<string>aggregate-address</string>
@@ -83,7 +97,10 @@
 		<string>altitude</string>
 		<string>always-compare-med</string>
 		<string>always</string>
+		<string>amanda</string>
+		<string>amqp</string>
 		<string>any</string>
+		<string>aol</string>
 		<string>append-domain</string>
 		<string>applejuice</string>
 		<string>application</string>
@@ -98,6 +115,12 @@
 		<string>as-path</string>
 		<string>as-set</string>
 		<string>as</string>
+		<string>asf-rmcp</string>
+		<string>asp</string>
+		<string>at-echo</string>
+		<string>at-nbp</string>
+		<string>at-rtmp</string>
+		<string>at-zis</string>
 		<string>atomic-aggregate</string>
 		<string>attach-to</string>
 		<string>attribute-unchanged</string>
@@ -115,6 +138,9 @@
 		<string>average-packet</string>
 		<string>backdoor</string>
 		<string>backup</string>
+		<string>bacula-dir</string>
+		<string>bacula-fd</string>
+		<string>bacula-sd</string>
 		<string>bandwidth-constraint</string>
 		<string>bandwidth</string>
 		<string>banner</string>
@@ -122,8 +148,12 @@
 		<string>bestpath</string>
 		<string>bfd</string>
 		<string>bgp</string>
+		<string>bgpd</string>
+		<string>bgpsim</string>
 		<string>bidirectional</string>
+		<string>biff</string>
 		<string>bind</string>
+		<string>binkp</string>
 		<string>bit-rate</string>
 		<string>bit</string>
 		<string>bittorrent</string>
@@ -135,7 +165,13 @@
 		<string>bonding</string>
 		<string>bootfile-name</string>
 		<string>bootfile-server</string>
+		<string>bootpc</string>
+		<string>bootps</string>
 		<string>both</string>
+		<string>bpcd</string>
+		<string>bpdbm</string>
+		<string>bpjava-msvc</string>
+		<string>bprd</string>
 		<string>branch</string>
 		<string>break-before-make</string>
 		<string>bridge-group</string>
@@ -152,16 +188,24 @@
 		<string>ca-value</string>
 		<string>cache-size</string>
 		<string>call</string>
+		<string>canna</string>
 		<string>capability</string>
 		<string>category</string>
 		<string>cdp</string>
 		<string>ceiling</string>
 		<string>cert-file</string>
+		<string>cfengine</string>
+		<string>cfinger</string>
+		<string>chargen</string>
+		<string>cisco-sccp</string>
 		<string>civic-based</string>
 		<string>class-to-exp-bit</string>
 		<string>class-to-exp</string>
 		<string>class-type</string>
 		<string>class</string>
+		<string>clc-build-daemon</string>
+		<string>clearcase</string>
+		<string>clearcaseClearcase</string>
 		<string>client-ip-pool</string>
 		<string>client-option</string>
 		<string>client-prefix-length</string>
@@ -169,6 +213,12 @@
 		<string>close-wait</string>
 		<string>close</string>
 		<string>cluster-id</string>
+		<string>cmd</string>
+		<string>cmip-agent</string>
+		<string>cmip-man</string>
+		<string>codaauth2codaauth2</string>
+		<string>codasrv-se</string>
+		<string>codasrv</string>
 		<string>code</string>
 		<string>comm-list</string>
 		<string>commit-archive</string>
@@ -178,14 +228,17 @@
 		<string>compare-routerid</string>
 		<string>components</string>
 		<string>compression</string>
+		<string>comsat</string>
 		<string>confed</string>
 		<string>confederation</string>
+		<string>conferencechat</string>
 		<string>config-file</string>
 		<string>config-management</string>
 		<string>connect-on-demand</string>
 		<string>connect</string>
 		<string>connected</string>
 		<string>connection-type</string>
+		<string>connection</string>
 		<string>connmark</string>
 		<string>conntrack</string>
 		<string>conservative</string>
@@ -201,19 +254,30 @@
 		<string>cost</string>
 		<string>count</string>
 		<string>country-code</string>
+		<string>courier</string>
 		<string>crl-file</string>
 		<string>crontab-spec</string>
+		<string>csnet-ns</string>
+		<string>cso-ns</string>
 		<string>cspf-retry-limit</string>
 		<string>cspf-retry-timer</string>
 		<string>cspf</string>
+		<string>csync2</string>
 		<string>cur-hop-limit</string>
+		<string>custom-attribute</string>
 		<string>custom-category</string>
 		<string>custom</string>
+		<string>customs</string>
 		<string>cuustom-attribute</string>
+		<string>cvspserver</string>
+		<string>daap</string>
 		<string>dampening</string>
+		<string>datametrics</string>
 		<string>datum</string>
 		<string>days</string>
+		<string>daytime</string>
 		<string>db-summary-opt</string>
+		<string>dcap</string>
 		<string>dead-interval</string>
 		<string>dead-peer-detection</string>
 		<string>debug</string>
@@ -264,6 +328,8 @@
 		<string>dhcpv6-pd</string>
 		<string>dhcpv6-relay</string>
 		<string>dhcpv6-server</string>
+		<string>dicom</string>
+		<string>dict</string>
 		<string>direcconnect</string>
 		<string>directconnect</string>
 		<string>direction</string>
@@ -286,9 +352,13 @@
 		<string>disable</string>
 		<string>disableconnected-check</string>
 		<string>disabled</string>
+		<string>discard</string>
 		<string>distance</string>
+		<string>distcc</string>
+		<string>distmp3</string>
 		<string>distribute-list</string>
 		<string>distribution</string>
+		<string>dns-redirect-ip</string>
 		<string>dns-server</string>
 		<string>dns-servers</string>
 		<string>dns</string>
@@ -298,12 +368,16 @@
 		<string>domain-noncache</string>
 		<string>domain-search</string>
 		<string>domain</string>
+		<string>domains</string>
 		<string>down</string>
 		<string>download</string>
 		<string>downstream-on-demand</string>
 		<string>downstream-unsolicited</string>
 		<string>downstream</string>
 		<string>dpi</string>
+		<string>dqs313_execd</string>
+		<string>dqs313_intercell</string>
+		<string>dqs313_qmaster</string>
 		<string>drop-tail</string>
 		<string>drop</string>
 		<string>dscp</string>
@@ -323,6 +397,7 @@
 		<string>egress-ttl</string>
 		<string>egress</string>
 		<string>ehanced</string>
+		<string>eklogin</string>
 		<string>elin</string>
 		<string>elsp-preconfigured</string>
 		<string>elsp-signaled</string>
@@ -338,6 +413,8 @@
 		<string>enable-ra</string>
 		<string>enable-safe-search</string>
 		<string>enable</string>
+		<string>enbd-cstatd</string>
+		<string>enbd-sstatd</string>
 		<string>encapsulation</string>
 		<string>encrypted-key</string>
 		<string>encrypted-password</string>
@@ -346,6 +423,8 @@
 		<string>enforce-first-as</string>
 		<string>engine-id</string>
 		<string>engineid</string>
+		<string>epmap</string>
+		<string>epmd</string>
 		<string>err</string>
 		<string>esp-group</string>
 		<string>established</string>
@@ -357,6 +436,7 @@
 		<string>except-interface</string>
 		<string>exclude-any</string>
 		<string>exclude</string>
+		<string>exec</string>
 		<string>executable</string>
 		<string>expand-hosts</string>
 		<string>expect-table-size</string>
@@ -370,6 +450,8 @@
 		<string>external-port</string>
 		<string>external</string>
 		<string>extra-traffic</string>
+		<string>f5-globalsite</string>
+		<string>f5-iquery</string>
 		<string>facility</string>
 		<string>failover-only</string>
 		<string>failover</string>
@@ -378,22 +460,27 @@
 		<string>fair-queue</string>
 		<string>fall-over</string>
 		<string>false</string>
+		<string>fatserv</string>
 		<string>fault</string>
+		<string>fax</string>
 		<string>fdp</string>
 		<string>fec</string>
 		<string>fib-entry</string>
+		<string>fido</string>
 		<string>file</string>
 		<string>files</string>
 		<string>filter-list</string>
 		<string>filter</string>
 		<string>filters</string>
 		<string>fin-wait</string>
+		<string>finger</string>
 		<string>firewall</string>
 		<string>fixed</string>
 		<string>flags</string>
 		<string>flow-accounting</string>
 		<string>flow-generic</string>
 		<string>flows</string>
+		<string>font-service</string>
 		<string>for-acl</string>
 		<string>for</string>
 		<string>force-encapsulation</string>
@@ -405,26 +492,46 @@
 		<string>fq-quantum</string>
 		<string>fragment</string>
 		<string>fragmentation</string>
+		<string>freeciv</string>
 		<string>from</string>
+		<string>frox</string>
+		<string>fsp</string>
+		<string>fspd</string>
 		<string>ftn-entry</string>
+		<string>ftp-data</string>
 		<string>ftp</string>
+		<string>ftps-dataftps</string>
 		<string>full-name</string>
 		<string>garbage-collection</string>
 		<string>gateway-address</string>
+		<string>gdomap</string>
+		<string>gds-db</string>
 		<string>ge</string>
+		<string>ggz</string>
+		<string>git</string>
 		<string>global-merge-capability</string>
 		<string>global-parameters</string>
 		<string>global</string>
 		<string>gmpls-label-set</string>
 		<string>gmpls</string>
+		<string>gnunet</string>
+		<string>gnutella-rtr</string>
+		<string>gnutella-svc</string>
 		<string>gnutella</string>
+		<string>gopher</string>
 		<string>goto</string>
 		<string>gpid</string>
+		<string>gpsd</string>
 		<string>graceful-restart</string>
 		<string>gre</string>
+		<string>gris</string>
 		<string>group-id</string>
 		<string>group</string>
 		<string>groupname</string>
+		<string>groupwise</string>
+		<string>gsidcap</string>
+		<string>gsiftp</string>
+		<string>gsigatekeeper</string>
 		<string>gtsm</string>
 		<string>guaranteed</string>
 		<string>gui</string>
@@ -447,6 +554,8 @@
 		<string>hello-time</string>
 		<string>hello-timeout</string>
 		<string>hfq</string>
+		<string>hkp</string>
+		<string>hmmp-ind</string>
 		<string>hold-priority</string>
 		<string>hold-time</string>
 		<string>holddown-timer</string>
@@ -458,18 +567,32 @@
 		<string>host-address</string>
 		<string>host-identifier</string>
 		<string>host-name</string>
+		<string>host-uniq</string>
 		<string>host</string>
 		<string>hostfile-update</string>
+		<string>hostmon</string>
+		<string>hostnames</string>
+		<string>hosts</string>
+		<string>hprop</string>
 		<string>htb-quantum</string>
+		<string>http-alt</string>
 		<string>http-port</string>
+		<string>http:</string>
+		<string>http</string>
 		<string>https-port</string>
+		<string>https:</string>
+		<string>https</string>
 		<string>hwaddr</string>
 		<string>hwnat</string>
+		<string>hylafax</string>
+		<string>iax</string>
 		<string>ibgp</string>
 		<string>icmp</string>
 		<string>icmpv6</string>
+		<string>icpv2</string>
 		<string>id</string>
 		<string>identifier</string>
+		<string>idfp</string>
 		<string>idle-timeout</string>
 		<string>ifmtu</string>
 		<string>igmp-proxy</string>
@@ -479,9 +602,14 @@
 		<string>ikev1</string>
 		<string>ikev2-reauth</string>
 		<string>ilm-entry</string>
+		<string>imap</string>
+		<string>imap2</string>
+		<string>imap3</string>
+		<string>imaps</string>
 		<string>import-bgp-routes</string>
 		<string>import-list</string>
 		<string>import</string>
+		<string>imsp</string>
 		<string>in-label</string>
 		<string>in</string>
 		<string>inbound-interface</string>
@@ -492,6 +620,7 @@
 		<string>include</string>
 		<string>independent</string>
 		<string>inet</string>
+		<string>ingreslock</string>
 		<string>ingress-capture</string>
 		<string>ingress-ttl</string>
 		<string>ingress</string>
@@ -518,6 +647,8 @@
 		<string>ip-next-hop</string>
 		<string>ip-src-route</string>
 		<string>ip</string>
+		<string>ipp</string>
+		<string>iprop</string>
 		<string>ipsec-interfaces</string>
 		<string>ipsec-settings</string>
 		<string>ipsec</string>
@@ -539,19 +670,49 @@
 		<string>ipv6-unicast</string>
 		<string>ipv6</string>
 		<string>ipv6mask</string>
+		<string>ipx</string>
+		<string>irc</string>
+		<string>ircd</string>
+		<string>ircs</string>
+		<string>isakmp</string>
+		<string>iscsi-target</string>
+		<string>isdnlog</string>
 		<string>isis</string>
+		<string>isisd</string>
+		<string>iso-tsap</string>
+		<string>jabber-client</string>
+		<string>jabber-server</string>
+		<string>kamanda</string>
 		<string>kazaa</string>
+		<string>kdc</string>
 		<string>keep-multiplier</string>
 		<string>keepalive-interval</string>
 		<string>keepalive-timeout</string>
 		<string>keepalive</string>
+		<string>kerberos-admwebster</string>
+		<string>kerberos-iv</string>
+		<string>kerberos-master</string>
+		<string>kerberos</string>
+		<string>kerberos4</string>
+		<string>kermit</string>
 		<string>kernel</string>
 		<string>key-exchange</string>
 		<string>key-file</string>
 		<string>key-id</string>
 		<string>key</string>
+		<string>klogin</string>
+		<string>knetd</string>
+		<string>kpasswd</string>
+		<string>kpop</string>
+		<string>krb-propkrb_prop</string>
+		<string>krb5_prop</string>
+		<string>krbupdatekreg</string>
+		<string>krcmd</string>
+		<string>kshell</string>
+		<string>kx</string>
 		<string>l2-circuit-fib-entry</string>
 		<string>l2-circuit</string>
+		<string>l2f</string>
 		<string>l2tp</string>
 		<string>l2tpv3</string>
 		<string>l2vpn</string>
@@ -565,7 +726,10 @@
 		<string>latency</string>
 		<string>latitude</string>
 		<string>lb-group</string>
+		<string>lb-local-metric-change</string>
 		<string>lb-local</string>
+		<string>ldap</string>
+		<string>ldaps</string>
 		<string>ldp-igp</string>
 		<string>ldp-optimization</string>
 		<string>ldp</string>
@@ -584,6 +748,7 @@
 		<string>link-id</string>
 		<string>link-mtu</string>
 		<string>link</string>
+		<string>linuxconf</string>
 		<string>listen-address</string>
 		<string>listen-interface</string>
 		<string>listen-on</string>
@@ -592,6 +757,7 @@
 		<string>lldp</string>
 		<string>llsp</string>
 		<string>load-balance</string>
+		<string>loc-srv</string>
 		<string>local-address</string>
 		<string>local-as</string>
 		<string>local-block-keyword</string>
@@ -619,6 +785,7 @@
 		<string>log-martians</string>
 		<string>log-modes</string>
 		<string>log-neighbor-changes</string>
+		<string>log-server</string>
 		<string>log</string>
 		<string>logging</string>
 		<string>login</string>
@@ -628,15 +795,21 @@
 		<string>loop-detection</string>
 		<string>loopback</string>
 		<string>loose</string>
+		<string>lotusnote</string>
+		<string>lotusnotes</string>
 		<string>lsp-metric</string>
 		<string>lsp-model</string>
 		<string>lsp-tunneling</string>
 		<string>mac-address</string>
 		<string>mac</string>
+		<string>mail</string>
+		<string>mailq</string>
 		<string>main</string>
 		<string>make-before-break</string>
 		<string>managed-flag</string>
 		<string>management-address</string>
+		<string>mandelbrot</string>
+		<string>mandelspawn</string>
 		<string>manual</string>
 		<string>map-route</string>
 		<string>map</string>
@@ -674,12 +847,14 @@
 		<string>maximum</string>
 		<string>md5-key</string>
 		<string>md5</string>
+		<string>mdns</string>
 		<string>med</string>
 		<string>mem-cache-size</string>
 		<string>merge-capable</string>
 		<string>message-ack</string>
 		<string>metric-type</string>
 		<string>metric</string>
+		<string>microsoft-ds</string>
 		<string>min-interval</string>
 		<string>min-label-value</string>
 		<string>min</string>
@@ -689,18 +864,30 @@
 		<string>minrx</string>
 		<string>mirror</string>
 		<string>missing-as-worst</string>
+		<string>mmcc</string>
 		<string>mode</string>
 		<string>modify</string>
 		<string>modules</string>
+		<string>moira-db</string>
+		<string>moira-update</string>
+		<string>moira-ureg</string>
+		<string>mon</string>
 		<string>monthdays</string>
 		<string>most-fill</string>
 		<string>mpls-te</string>
 		<string>mpls</string>
+		<string>mrtd</string>
 		<string>ms-pw-stitch</string>
 		<string>ms-pw</string>
+		<string>ms-sql-m</string>
+		<string>ms-sql-s</string>
+		<string>msnp</string>
+		<string>msp</string>
 		<string>mss-clamp</string>
 		<string>mss-clamp6</string>
 		<string>mss</string>
+		<string>mtn</string>
+		<string>mtp</string>
 		<string>mtu-ignore</string>
 		<string>mtu</string>
 		<string>multicast-hellos</string>
@@ -709,15 +896,28 @@
 		<string>multihop</string>
 		<string>multilink</string>
 		<string>multiplier</string>
+		<string>munin</string>
+		<string>mysql-proxy</string>
+		<string>mysql</string>
 		<string>name-server</string>
 		<string>name</string>
+		<string>nameserver</string>
 		<string>nat-networks</string>
 		<string>nat-pmp</string>
 		<string>nat-traversal</string>
 		<string>nat</string>
+		<string>nbd</string>
+		<string>nbp</string>
 		<string>neighbor-liveness</string>
 		<string>neighbor</string>
+		<string>nessus</string>
+		<string>netbios-dgm</string>
+		<string>netbios-ns</string>
+		<string>netbios-ssn</string>
 		<string>netflow</string>
+		<string>netnews</string>
+		<string>netstat</string>
+		<string>netwall</string>
 		<string>network-delay</string>
 		<string>network-distance</string>
 		<string>network-emulator</string>
@@ -725,17 +925,23 @@
 		<string>network-group</string>
 		<string>network</string>
 		<string>new</string>
+		<string>newdate</string>
 		<string>next-hop-interface</string>
 		<string>next-hop</string>
 		<string>next</string>
 		<string>nexthop-local</string>
 		<string>nexthop-self</string>
 		<string>nexthop</string>
+		<string>nextstep</string>
 		<string>nfs</string>
+		<string>nicname</string>
+		<string>ninstall</string>
 		<string>nis-domain</string>
 		<string>nis-server</string>
 		<string>nisplus-domain</string>
 		<string>nisplus-server</string>
+		<string>nntp</string>
+		<string>nntps</string>
 		<string>no-activate</string>
 		<string>no-affinity</string>
 		<string>no-client-to-client-reflection</string>
@@ -748,6 +954,7 @@
 		<string>no-redistribution</string>
 		<string>no-summary</string>
 		<string>no-update</string>
+		<string>noclog</string>
 		<string>node.tag</string>
 		<string>non-free</string>
 		<string>non-IANA-hello</string>
@@ -759,16 +966,29 @@
 		<string>not-advertise</string>
 		<string>notice</string>
 		<string>notification</string>
+		<string>npmp-gui</string>
+		<string>npmp-local</string>
+		<string>nqs</string>
+		<string>nrpe</string>
+		<string>nsca</string>
 		<string>nssa</string>
+		<string>ntalk</string>
 		<string>ntp-server</string>
 		<string>ntp</string>
 		<string>ntpserver</string>
+		<string>null</string>
 		<string>number</string>
+		<string>nut</string>
 		<string>off-delay</string>
 		<string>off</string>
 		<string>offload</string>
 		<string>oid</string>
+		<string>old-radacct</string>
+		<string>old-radius</string>
 		<string>older-ciphers</string>
+		<string>omirr</string>
+		<string>omirrd</string>
+		<string>omniorb</string>
 		<string>on-link-flag</string>
 		<string>on-match</string>
 		<string>on-shutdown</string>
@@ -787,6 +1007,9 @@
 		<string>originate</string>
 		<string>originator-id</string>
 		<string>ospf</string>
+		<string>ospf6d</string>
+		<string>ospfapi</string>
+		<string>ospfd</string>
 		<string>ospfv3</string>
 		<string>other-config-flag</string>
 		<string>other</string>
@@ -805,6 +1028,7 @@
 		<string>packet-corruption</string>
 		<string>packet-loss</string>
 		<string>packet-reordering</string>
+		<string>packet-rx-core-num</string>
 		<string>packet</string>
 		<string>parameters-only</string>
 		<string>parameters</string>
@@ -812,11 +1036,14 @@
 		<string>passive-interface-exclude</string>
 		<string>passive-interface</string>
 		<string>passive</string>
+		<string>passwd_server</string>
 		<string>password-type</string>
 		<string>password</string>
 		<string>path-limit</string>
 		<string>path</string>
+		<string>pawserv</string>
 		<string>pbb-te</string>
+		<string>pcrd</string>
 		<string>pd</string>
 		<string>peer-acl</string>
 		<string>peer-address</string>
@@ -828,6 +1055,7 @@
 		<string>pfifo</string>
 		<string>pfs</string>
 		<string>ping</string>
+		<string>pipe-server</string>
 		<string>pipe</string>
 		<string>plaintext-key</string>
 		<string>plaintext-password</string>
@@ -837,10 +1065,17 @@
 		<string>poll-interval</string>
 		<string>pop-server</string>
 		<string>pop</string>
+		<string>pop2</string>
+		<string>pop3</string>
+		<string>pop3s</string>
+		<string>poppassd</string>
 		<string>port-forward</string>
 		<string>port-group</string>
 		<string>port</string>
+		<string>portmapper</string>
 		<string>post-login</string>
+		<string>postgres</string>
+		<string>postgresql</string>
 		<string>ppp</string>
 		<string>pppoe-server</string>
 		<string>pppoe</string>
@@ -849,6 +1084,7 @@
 		<string>pre-login</string>
 		<string>pre-shared-secret</string>
 		<string>precedence</string>
+		<string>predict</string>
 		<string>preempt-delay</string>
 		<string>preempt</string>
 		<string>prefer</string>
@@ -863,14 +1099,18 @@
 		<string>prefix</string>
 		<string>preprogram-suggested-label</string>
 		<string>primary</string>
+		<string>printer</string>
 		<string>priority-queue</string>
 		<string>priority</string>
 		<string>privacy</string>
 		<string>probability</string>
 		<string>promiscuous</string>
+		<string>proofd</string>
 		<string>propagate-release</string>
 		<string>propagate-ttl</string>
 		<string>proposal</string>
+		<string>prospero-np</string>
+		<string>prospero</string>
 		<string>protection</string>
 		<string>proto</string>
 		<string>protocol-version</string>
@@ -888,13 +1128,20 @@
 		<string>push-route</string>
 		<string>pvid</string>
 		<string>pw-status-tlv</string>
+		<string>pwdgen</string>
+		<string>qmqp</string>
+		<string>qmtp</string>
 		<string>qos</string>
+		<string>qotd</string>
 		<string>quantum</string>
 		<string>queue-limit</string>
 		<string>queue-type</string>
 		<string>queue</string>
+		<string>quote</string>
+		<string>radius-acct</string>
 		<string>radius-server</string>
 		<string>radius</string>
+		<string>radmin-port</string>
 		<string>radvd-options</string>
 		<string>random-detect</string>
 		<string>random</string>
@@ -903,8 +1150,10 @@
 		<string>rate-control</string>
 		<string>rate</string>
 		<string>rd</string>
+		<string>re-mail-ck</string>
 		<string>re-use</string>
 		<string>reachable-time</string>
+		<string>readnews</string>
 		<string>reboot-on-panic</string>
 		<string>receive-redirects</string>
 		<string>receive</string>
@@ -926,6 +1175,7 @@
 		<string>relative</string>
 		<string>relay-agents-packets</string>
 		<string>relay-options</string>
+		<string>remctl</string>
 		<string>remote-access</string>
 		<string>remote-address</string>
 		<string>remote-as</string>
@@ -935,6 +1185,8 @@
 		<string>remote-ip</string>
 		<string>remote-port</string>
 		<string>remote</string>
+		<string>remotefsrfs_server</string>
+		<string>remoteping</string>
 		<string>remove-private-as</string>
 		<string>repeater</string>
 		<string>replace-default-route</string>
@@ -947,6 +1199,7 @@
 		<string>require</string>
 		<string>reservable-bandwidth</string>
 		<string>reservable</string>
+		<string>resource</string>
 		<string>restart-time</string>
 		<string>restore-mark</string>
 		<string>retrans-timer</string>
@@ -959,10 +1212,19 @@
 		<string>revertive</string>
 		<string>rfc1583-compatibility</string>
 		<string>rfc2136</string>
+		<string>rfe</string>
+		<string>rfs</string>
 		<string>rip</string>
+		<string>ripd</string>
 		<string>ripng</string>
+		<string>ripngd</string>
+		<string>rje</string>
+		<string>rlp</string>
+		<string>rmiregistry</string>
+		<string>rmtcfg</string>
 		<string>role</string>
 		<string>root</string>
+		<string>rootd</string>
 		<string>round-robin</string>
 		<string>route-map</string>
 		<string>route-reflector-client</string>
@@ -977,18 +1239,32 @@
 		<string>router-id</string>
 		<string>router-lsa</string>
 		<string>router</string>
+		<string>rpc</string>
+		<string>rpc2portmap</string>
+		<string>rplay</string>
 		<string>rsa-key-name</string>
 		<string>rsa-key</string>
 		<string>rsa-keys</string>
 		<string>rsvp-trunk-restart</string>
 		<string>rsvp</string>
+		<string>rsync</string>
+		<string>rtcm-sc104</string>
+		<string>rtelnet</string>
+		<string>rtmp</string>
+		<string>rtsp</string>
 		<string>rule</string>
 		<string>run-transition-scripts</string>
+		<string>sa-msg-port</string>
+		<string>saft</string>
 		<string>saii</string>
 		<string>sampling-rate</string>
+		<string>sane-port</string>
+		<string>sane</string>
+		<string>saned</string>
 		<string>save-mark</string>
 		<string>scan-time</string>
 		<string>script</string>
+		<string>search</string>
 		<string>seclevel</string>
 		<string>second</string>
 		<string>secondary</string>
@@ -1016,6 +1292,11 @@
 		<string>sflow</string>
 		<string>sfp-exp-delay</string>
 		<string>sfq</string>
+		<string>sftp</string>
+		<string>sge-execd</string>
+		<string>sge-qmaster</string>
+		<string>sgi-cad</string>
+		<string>sgi-gcd</string>
 		<string>sha1</string>
 		<string>shaper</string>
 		<string>shared-explicit</string>
@@ -1023,21 +1304,36 @@
 		<string>shared-network-parameters</string>
 		<string>shared-secret-key-file</string>
 		<string>shared</string>
+		<string>shell</string>
 		<string>shortcut</string>
 		<string>shutdown</string>
+		<string>sieve</string>
 		<string>signaling</string>
 		<string>signature-update</string>
+		<string>silc</string>
+		<string>sink</string>
 		<string>sip-server-address</string>
 		<string>sip-server-name</string>
+		<string>sip-tls</string>
 		<string>sip</string>
 		<string>site-to-site</string>
 		<string>size</string>
+		<string>skkserv</string>
 		<string>slow-timer</string>
 		<string>smart-queue</string>
 		<string>smp_affinity</string>
+		<string>smsqp</string>
 		<string>smtp-server</string>
+		<string>smtp</string>
+		<string>smtps</string>
+		<string>smux</string>
+		<string>snmp-trap</string>
 		<string>snmp</string>
+		<string>snmptrap</string>
+		<string>snntp</string>
+		<string>snpp</string>
 		<string>sntp-server</string>
+		<string>socks</string>
 		<string>soft-reconfiguration</string>
 		<string>sonmp</string>
 		<string>source-addr</string>
@@ -1045,14 +1341,17 @@
 		<string>source-port</string>
 		<string>source-validation</string>
 		<string>source</string>
+		<string>spamd</string>
 		<string>speed</string>
 		<string>spf</string>
 		<string>split-horizon</string>
 		<string>spoke-vc</string>
+		<string>spooler</string>
 		<string>sqlnet</string>
 		<string>squidguard</string>
 		<string>ssh-rsa</string>
 		<string>ssh</string>
+		<string>ssmtp</string>
 		<string>stability-interval</string>
 		<string>stalepath-time</string>
 		<string>standard</string>
@@ -1084,16 +1383,27 @@
 		<string>strict-order</string>
 		<string>strict</string>
 		<string>stub</string>
+		<string>submission</string>
 		<string>subnet-mask</string>
 		<string>subnet-parameters</string>
 		<string>subnet</string>
 		<string>substitute</string>
+		<string>subversion</string>
 		<string>success</string>
 		<string>summary-address</string>
 		<string>summary-only</string>
+		<string>sunrpc</string>
 		<string>sup-route</string>
+		<string>supdup</string>
+		<string>supfiledbg</string>
+		<string>supfilesrv</string>
 		<string>support-diffserv-class</string>
+		<string>support</string>
+		<string>suucp</string>
+		<string>svn</string>
+		<string>svrloc</string>
 		<string>swap</string>
+		<string>swat</string>
 		<string>switch-port</string>
 		<string>switch</string>
 		<string>syn-cookies</string>
@@ -1105,11 +1415,16 @@
 		<string>sync</string>
 		<string>syslog-facility</string>
 		<string>syslog</string>
+		<string>sysrqd</string>
+		<string>systat</string>
 		<string>system</string>
 		<string>table-size</string>
 		<string>table</string>
+		<string>tacacs-ds</string>
+		<string>tacacs</string>
 		<string>tag</string>
 		<string>taii</string>
+		<string>talk</string>
 		<string>target</string>
 		<string>targeted-peer-hello-interval</string>
 		<string>targeted-peer-hold-time</string>
@@ -1122,11 +1437,15 @@
 		<string>tcp-mss</string>
 		<string>tcp-rst</string>
 		<string>tcp</string>
+		<string>tcpmux</string>
 		<string>te-class</string>
 		<string>te</string>
 		<string>telnet</string>
+		<string>telnets</string>
 		<string>temperature</string>
+		<string>tempo</string>
 		<string>temporary</string>
+		<string>tfido</string>
 		<string>tftp-server-name</string>
 		<string>tftp</string>
 		<string>threshold</string>
@@ -1138,12 +1457,17 @@
 		<string>time-wait</string>
 		<string>time-zone</string>
 		<string>time</string>
+		<string>timed</string>
 		<string>timeout</string>
 		<string>timers</string>
+		<string>timeserver</string>
+		<string>timserver</string>
+		<string>tinc</string>
 		<string>tls</string>
 		<string>to</string>
 		<string>topology</string>
 		<string>tos</string>
+		<string>tproxy</string>
 		<string>traffic-analysis</string>
 		<string>traffic-control</string>
 		<string>traffic-engineering</string>
@@ -1162,6 +1486,8 @@
 		<string>tsm</string>
 		<string>ttl-security</string>
 		<string>ttl</string>
+		<string>ttylink</string>
+		<string>ttytst</string>
 		<string>tun</string>
 		<string>tunnel-id</string>
 		<string>tunnel</string>
@@ -1169,12 +1495,16 @@
 		<string>type</string>
 		<string>ubnt-discover</string>
 		<string>udp</string>
+		<string>ulistservulistserv</string>
 		<string>unchanged</string>
 		<string>unidirectional</string>
 		<string>unifi-controller</string>
+		<string>unix-status</string>
+		<string>unms</string>
 		<string>unnumbered</string>
 		<string>unprotected</string>
 		<string>unsuppress-map</string>
+		<string>untp</string>
 		<string>up</string>
 		<string>update_blacklists</string>
 		<string>update-hour</string>
@@ -1193,17 +1523,25 @@
 		<string>user-id</string>
 		<string>user</string>
 		<string>username</string>
+		<string>users</string>
 		<string>utc</string>
+		<string>uucp-path</string>
+		<string>uucp</string>
+		<string>uucpd</string>
 		<string>v2</string>
 		<string>v3</string>
 		<string>valid-lifetime</string>
 		<string>value</string>
+		<string>vboxd</string>
 		<string>vc-mode</string>
 		<string>vc1</string>
 		<string>vc2</string>
 		<string>ve-id</string>
 		<string>ve-range</string>
+		<string>venus-se</string>
+		<string>venus</string>
 		<string>version</string>
+		<string>vid</string>
 		<string>view</string>
 		<string>vif</string>
 		<string>virtual-address</string>
@@ -1211,6 +1549,8 @@
 		<string>vlan-aware</string>
 		<string>vlan-instance</string>
 		<string>vlan</string>
+		<string>vnetd</string>
+		<string>vopied</string>
 		<string>vpls-ac-group</string>
 		<string>vpls-description</string>
 		<string>vpls-mtu</string>
@@ -1223,23 +1563,62 @@
 		<string>vrrp-group</string>
 		<string>vrrp</string>
 		<string>vti</string>
+		<string>wais</string>
 		<string>wan-interface</string>
 		<string>wan</string>
 		<string>watchdog</string>
 		<string>web-skip</string>
 		<string>web</string>
+		<string>webcache</string>
+		<string>webmin</string>
 		<string>webproxy</string>
+		<string>webster</string>
 		<string>weekdays</string>
 		<string>weight</string>
 		<string>whitelist</string>
+		<string>who</string>
+		<string>whod</string>
+		<string>whoi</string>
 		<string>wins-server</string>
 		<string>wins-servers</string>
+		<string>wipld</string>
 		<string>wirelessmodem</string>
+		<string>wnn6</string>
 		<string>word</string>
 		<string>wpad-url</string>
+		<string>wss</string>
+		<string>x11-1</string>
+		<string>x11-2</string>
+		<string>x11-3</string>
+		<string>x11-4</string>
+		<string>x11-5</string>
+		<string>x11-6</string>
+		<string>x11-7</string>
+		<string>x11</string>
 		<string>x509</string>
+		<string>xdmcp</string>
+		<string>xinetd</string>
+		<string>xmms2</string>
+		<string>xmpp-client</string>
+		<string>xmpp-server</string>
+		<string>xpilot</string>
+		<string>xtel</string>
+		<string>xtell</string>
+		<string>xtelw</string>
+		<string>z3950</string>
+		<string>zabbix-agent</string>
+		<string>zabbix-trapper</string>
+		<string>zebra</string>
+		<string>zebrasrv</string>
+		<string>zephyr-clt</string>
+		<string>zephyr-hm</string>
+		<string>zephyr-srv</string>
+		<string>zip</string>
 		<string>zone-policy</string>
 		<string>zone</string>
+		<string>zope-ftp</string>
+		<string>zope</string>
+		<string>zserv</string>
 	</array>
 	<key>BBLMScansFunctions</key>
 	<true/>
