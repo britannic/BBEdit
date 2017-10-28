@@ -195,6 +195,7 @@
 		<string>ceiling</string>
 		<string>cert-file</string>
 		<string>cfengine</string>
+		<string>cfgversion</string>
 		<string>cfinger</string>
 		<string>chargen</string>
 		<string>cisco-sccp</string>
@@ -854,6 +855,7 @@
 		<string>message-ack</string>
 		<string>metric-type</string>
 		<string>metric</string>
+		<string>mgmt</string>
 		<string>microsoft-ds</string>
 		<string>min-interval</string>
 		<string>min-label-value</string>
@@ -1369,6 +1371,7 @@
 		<string>static-mapping</string>
 		<string>static-route</string>
 		<string>static</string>
+		<string>static-arp</string>
 		<string>statistic</string>
 		<string>status</string>
 		<string>sticky</string>
@@ -1498,6 +1501,7 @@
 		<string>ulistservulistserv</string>
 		<string>unchanged</string>
 		<string>unidirectional</string>
+		<string>unifi</string>
 		<string>unifi-controller</string>
 		<string>unix-status</string>
 		<string>unms</string>
